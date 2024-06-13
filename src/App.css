@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+.item {
+  padding: 20px;
+}
+
+.item input{
+  width:30%;
+  margin-bottom: 15px;
+}
+
+.modal-12 .ant-input-number, .modal-12 .ant-select{
+  width: 100%;
+}
